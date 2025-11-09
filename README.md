@@ -72,8 +72,3 @@ This project is licensed under the Apache License 2.0 — you’re free to use, 
 📌 License
 This project is licensed under the Apache License 2.0 — you’re free to use, modify, and distribute the code with proper attribution. For full details, see the Apache 2.0 License.
 
-
-
-
-   ```bash
-   python --version
