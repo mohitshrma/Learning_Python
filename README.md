@@ -67,8 +67,5 @@ Feel free to explore, fork, or contribute. If you're learning Python or switchin
 📬 [LinkedIn – Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-6a21b6226/)
 
 📌 License
-This project is licensed under the Apache License 2.0 — you’re free to use, modify, and distribute the code with proper attribution. For full details, see the Thanks for the update, Mohit! Here's the revised section of your README.md file with the correct license:
-
-📌 License
 This project is licensed under the Apache License 2.0 — you’re free to use, modify, and distribute the code with proper attribution. For full details, see the Apache 2.0 License.
 
